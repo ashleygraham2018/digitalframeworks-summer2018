@@ -13,5 +13,6 @@ As natural hair becomes a more popular trend for Black women, I want to use data
 ### Sample data set
 	
 	Station name | DMA Ranking | # Black female on-air talent | # Black females w/ natural hair | Region
-	------------ |-------------|------------------------------|---------------------------------|---------
+	------------ |-------------|------------------------------|---------------------------------|---------|
 	WFAA         |   5         |             4                |                 2               |South
+	------------ |-------------|------------------------------|---------------------------------|---------|
