@@ -5,13 +5,13 @@ As natural hair becomes a more popular trend for Black women, I want to use data
 ## Here are some of the features I will collect for my data set:
 	
   * Station name
-	* DMA ranking
-	* Number of Black female on-air talent
-	* Number of Black females with natural hair
-	* Region of the country
+  * DMA ranking
+  * Number of Black female on-air talent
+  * Number of Black females with natural hair
+  * Region of the country
 	
 ### Sample data set
 	
 	Station name | DMA Ranking | # Black female on-air talent | # Black females w/ natural hair | Region
-	------------ |  -----------|------------------------------|---------------------------------|---------
+	------------ |-------------|------------------------------|---------------------------------|---------
 	WFAA         |   5         |             4                |                 2               |South
